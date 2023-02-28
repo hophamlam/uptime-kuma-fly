@@ -20,7 +20,7 @@ flyctl deploy
 
 ## Add custom domain
 
-Change into your domain + Use CNAME to point your domain to auto-generated fly.io app url
+Change into your domain + Use CNAME to point your domain to auto-generated fly.clio app url
 
 ```bash
 flyctl certs create status.mydomain.com
