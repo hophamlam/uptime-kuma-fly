@@ -1,4 +1,4 @@
-# Personal Uptime Kuma server
+# Personal Portainer server to watch other Agent
 
 ## Create a 1Gb volume for uptime-kuma
 
