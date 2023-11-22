@@ -1,3 +1,7 @@
+# Please be advised that there is a better repo here 🤣🤣
+
+https://github.com/lubien/fly-uptime-kuma
+
 # Personal lightweight Uptime-Kuma
 
 ## Create a 1Gb volume for uptime-kuma
